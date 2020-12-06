@@ -2,6 +2,7 @@
  Beginner friendly Deep Learning Course with Python and Pytorch
 
 ## What you will learn
+    * Working with Google Colab
     * Python basics
     * How to work with Numpy 
     * How to work with Pandas
