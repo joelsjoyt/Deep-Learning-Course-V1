@@ -1,5 +1,5 @@
 # Deep-Learning-Course
- Beginner friendly Deep Learning Course with Python and Pytorch
+ Beginner friendly Deep Learning Course with Python and Pytorch by Joel S Joy
 
 ## What you will learn
     * Working with Google Colab
